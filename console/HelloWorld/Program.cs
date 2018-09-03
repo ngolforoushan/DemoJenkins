@@ -9,6 +9,6 @@ namespace HelloWorld
             Console.WriteLine(CreateWelcomeMessage());
         }
 
-        public static string CreateWelcomeMessage() => "Hello World! --NG";
+        public static string CreateWelcomeMssage() => "Hello World! --NG";
     }
 }
