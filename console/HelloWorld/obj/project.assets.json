@@ -681,7 +681,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\WINDOWS\\system32\\config\\systemprofile\\.nuget\\packages\\": {},
+    "C:\\Users\\ngolf\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -690,14 +690,14 @@
       "projectUniqueName": "C:\\Users\\ngolf\\Desktop\\Demo\\DemoJenkins\\console\\HelloWorld\\HelloWorld.csproj",
       "projectName": "HelloWorld",
       "projectPath": "C:\\Users\\ngolf\\Desktop\\Demo\\DemoJenkins\\console\\HelloWorld\\HelloWorld.csproj",
-      "packagesPath": "C:\\WINDOWS\\system32\\config\\systemprofile\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\ngolf\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\ngolf\\Desktop\\Demo\\DemoJenkins\\console\\HelloWorld\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\WINDOWS\\system32\\config\\systemprofile\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ngolf\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

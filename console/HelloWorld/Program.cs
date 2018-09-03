@@ -10,5 +10,14 @@ namespace HelloWorld
         }
 
         public static string CreateWelcomeMssage() => "Hello World! --NG";
+
+        public static double Calculater(double a, double b, string op) {
+            if (op == "add")
+            {
+                return a + b;
+            }
+            else
+                throw new InvalidOperationException ("Operation not defined");
+        }
     }
 }
