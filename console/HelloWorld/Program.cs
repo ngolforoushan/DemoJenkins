@@ -6,7 +6,7 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(CreateWelcomeMessage());
+            Console.WriteLine(CreateWelcomeMssage());
         }
 
         public static string CreateWelcomeMssage() => "Hello World! --NG";
