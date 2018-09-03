@@ -1,0 +1,17 @@
+C:\Users\ngolf\Desktop\Demo\DemoJenkins\console\HelloWorld.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\ngolf\Desktop\Demo\DemoJenkins\console\HelloWorld.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\ngolf\Desktop\Demo\DemoJenkins\console\HelloWorld.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\ngolf\Desktop\Demo\DemoJenkins\console\HelloWorld.Tests\bin\Debug\netcoreapp2.1\HelloWorld.Tests.deps.json
+C:\Users\ngolf\Desktop\Demo\DemoJenkins\console\HelloWorld.Tests\bin\Debug\netcoreapp2.1\HelloWorld.Tests.runtimeconfig.json
+C:\Users\ngolf\Desktop\Demo\DemoJenkins\console\HelloWorld.Tests\bin\Debug\netcoreapp2.1\HelloWorld.Tests.runtimeconfig.dev.json
+C:\Users\ngolf\Desktop\Demo\DemoJenkins\console\HelloWorld.Tests\bin\Debug\netcoreapp2.1\HelloWorld.Tests.dll
+C:\Users\ngolf\Desktop\Demo\DemoJenkins\console\HelloWorld.Tests\bin\Debug\netcoreapp2.1\HelloWorld.Tests.pdb
+C:\Users\ngolf\Desktop\Demo\DemoJenkins\console\HelloWorld.Tests\bin\Debug\netcoreapp2.1\HelloWorld.dll
+C:\Users\ngolf\Desktop\Demo\DemoJenkins\console\HelloWorld.Tests\bin\Debug\netcoreapp2.1\HelloWorld.pdb
+C:\Users\ngolf\Desktop\Demo\DemoJenkins\console\HelloWorld.Tests\obj\Debug\netcoreapp2.1\HelloWorld.Tests.csprojAssemblyReference.cache
+C:\Users\ngolf\Desktop\Demo\DemoJenkins\console\HelloWorld.Tests\obj\Debug\netcoreapp2.1\HelloWorld.Tests.csproj.CoreCompileInputs.cache
+C:\Users\ngolf\Desktop\Demo\DemoJenkins\console\HelloWorld.Tests\obj\Debug\netcoreapp2.1\HelloWorld.Tests.AssemblyInfoInputs.cache
+C:\Users\ngolf\Desktop\Demo\DemoJenkins\console\HelloWorld.Tests\obj\Debug\netcoreapp2.1\HelloWorld.Tests.AssemblyInfo.cs
+C:\Users\ngolf\Desktop\Demo\DemoJenkins\console\HelloWorld.Tests\obj\Debug\netcoreapp2.1\HelloWorld.Tests.csproj.CopyComplete
+C:\Users\ngolf\Desktop\Demo\DemoJenkins\console\HelloWorld.Tests\obj\Debug\netcoreapp2.1\HelloWorld.Tests.dll
+C:\Users\ngolf\Desktop\Demo\DemoJenkins\console\HelloWorld.Tests\obj\Debug\netcoreapp2.1\HelloWorld.Tests.pdb

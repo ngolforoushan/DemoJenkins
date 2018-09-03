@@ -1,0 +1,11 @@
+C:\Users\ngolf\Desktop\Demo\DemoJenkins\console\HelloWorld\bin\Debug\netcoreapp2.1\HelloWorld.deps.json
+C:\Users\ngolf\Desktop\Demo\DemoJenkins\console\HelloWorld\bin\Debug\netcoreapp2.1\HelloWorld.runtimeconfig.json
+C:\Users\ngolf\Desktop\Demo\DemoJenkins\console\HelloWorld\bin\Debug\netcoreapp2.1\HelloWorld.runtimeconfig.dev.json
+C:\Users\ngolf\Desktop\Demo\DemoJenkins\console\HelloWorld\bin\Debug\netcoreapp2.1\HelloWorld.dll
+C:\Users\ngolf\Desktop\Demo\DemoJenkins\console\HelloWorld\bin\Debug\netcoreapp2.1\HelloWorld.pdb
+C:\Users\ngolf\Desktop\Demo\DemoJenkins\console\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.csprojAssemblyReference.cache
+C:\Users\ngolf\Desktop\Demo\DemoJenkins\console\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\ngolf\Desktop\Demo\DemoJenkins\console\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\ngolf\Desktop\Demo\DemoJenkins\console\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.AssemblyInfo.cs
+C:\Users\ngolf\Desktop\Demo\DemoJenkins\console\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.dll
+C:\Users\ngolf\Desktop\Demo\DemoJenkins\console\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.pdb
