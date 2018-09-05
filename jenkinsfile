@@ -3,17 +3,17 @@ pipeline {
     stages {
         stage('Build') { 
             steps {
-                cd c:\ 
+                echo 'Hello, Maven'
             }
         }
         stage('Test') { 
             steps {
-                cd c:\
+                echo 'Hello, Maven'
             }
         }
         stage('Deploy') { 
             steps {
-                cd c:\
+                echo 'Hello, Maven'
             }
         }
     }
