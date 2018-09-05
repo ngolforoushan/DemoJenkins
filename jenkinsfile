@@ -3,17 +3,17 @@ pipeline {
     stages {
         stage('Build') { 
             steps {
-                // 
+                cd c:\ 
             }
         }
         stage('Test') { 
             steps {
-                // 
+                cd c:\
             }
         }
         stage('Deploy') { 
             steps {
-                // 
+                cd c:\
             }
         }
     }
