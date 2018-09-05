@@ -1,20 +1,23 @@
 pipeline {
     agent any
-    stages{
-        stage('Init'){
-            steps {
-                echo "Testing..."
-            }
-        }
+    
 
+stages{
         stage('Build'){
             steps {
-                echo "Building ..."
+                echo 'mvn clean package'
             }
+            
         }
-        stage('Deploy') {
-            steps {
-                echo "Code Deployed."
+
+        stage ('Deployments'){
+            
+                stage ('Deploy to Staging'){
+                    steps {
+                        echo "scp -i /home/jenkins/tomcat-demo.pem **/target/*.war ec2-user@${params.tomcat_dev}:/var/lib/tomcat7/webapps"
+                    }
+                }
+
             }
         }
     }
